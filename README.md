@@ -5,7 +5,7 @@
 
 - 👨‍💻 My portfolio [https://eldos-portfolio.vercel.app/](https://eldos-portfolio.vercel.app/)
 
-- 📝 My LeetCode profile[https://www.leetCode.com/](https://www.leetcoed.com/)
+- 📝 My LeetCode profile [https://leetcode.com/eueend/](https://leetcode.com/eueend/)
 
 - 📫 How to reach me **eldos.zholbolduev@gmail.com**
 
