@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif" width="200px"/>
 </div>
 
-- 👨‍💻 My portfolio [https://eldos-portfolio.vercel.app/](https://eldos-portfolio.vercel.app/)
+- 👨‍💻 My portfolio [https://eldos-portfolio.vercel.app/](https://eldos-)
 
 - 📫 How to reach me **eldos.zholbolduev@gmail.com**
 
