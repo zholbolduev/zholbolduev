@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **eldos.zholbolduev@gmail.com**
 
-- 📝 My LeetCode profile [https://leetcode.com/eueend/](https://leetcode.com/eueend/)
+- 📝 My LeetCode profile [https://leetcode.com/zholbolduev/](https://leetcode.com/zholbolduev/)
 
 
 
